@@ -1,2 +1,9 @@
 # Git
-Información sobre el proyecto
+
+Encabezados
+
+# Etiqueta <h1>
+## Etiqueta <h2>
+###### Etiqueta <h3>
+
+  
